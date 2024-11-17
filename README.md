@@ -1,6 +1,5 @@
 # ⚠️Attention
-- This project will be update soon.See you again!
-- Please learn and read the interim guidance below while you wait project update.
+THE INSTRUCTIONS BELOW ARE TEMPORARY INSTRUCTIONS ONLY. PLEASE WAIT FOR OFFICIAL INSTRUCTIONS
 # Index
 - [Inroduce](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#nuudiscordbot-introduce)
 - [Main Features](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#main-features)
