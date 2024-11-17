@@ -1,28 +1,28 @@
 # ⚠️Attention
 **THE INSTRUCTIONS BELOW ARE TEMPORARY INSTRUCTIONS ONLY. PLEASE WAIT FOR OFFICIAL INSTRUCTIONS**
 # Index
-- [Inroduce](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#nuudiscordbot-introduce)
-- [Main Features](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#main-features)
-- [Setup](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#setup)
-- [Setting Bot](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#setting-bot)
-- [Invite Bot](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#setting-bot)
-- [Install Package](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#open-terminal-and-install-npm-packages-on-visual-studio-code)
-- [Run Bot](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#open-terminal-and-install-npm-packages-on-visual-studio-code)
-- [Result](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#result)
-- [Change Prefix](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#result)
-- [Google Sheet API](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#get-google-sheet-api)
-- [ATTENTION](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#attention)
-  - [Google Sheet](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#google-sheet)
-  - [Dev Token](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#dev-token)
-- [Other Document](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#dev-token)
-- [Support platform](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#support-platform)
-- [Change Log](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#change-log)
-- [License](https://github.com/khoi321/NuuDiscordBot/blob/main/LICENSE)
+- [Inroduce](https://github.com/khoi321/BasicDiscordBot?tab=readme-ov-file#BasicDiscordBot-introduce)
+- [Main Features](https://github.com/khoi321/BasicDiscordBot?tab=readme-ov-file#main-features)
+- [Setup](https://github.com/khoi321/BasicDiscordBot?tab=readme-ov-file#setup)
+- [Setting Bot](https://github.com/khoi321/BasicDiscordBot?tab=readme-ov-file#setting-bot)
+- [Invite Bot](https://github.com/khoi321/BasicDiscordBot?tab=readme-ov-file#setting-bot)
+- [Install Package](https://github.com/khoi321/BasicDiscordBot?tab=readme-ov-file#open-terminal-and-install-npm-packages-on-visual-studio-code)
+- [Run Bot](https://github.com/khoi321/BasicDiscordBot?tab=readme-ov-file#open-terminal-and-install-npm-packages-on-visual-studio-code)
+- [Result](https://github.com/khoi321/BasicDiscordBot?tab=readme-ov-file#result)
+- [Change Prefix](https://github.com/khoi321/BasicDiscordBot?tab=readme-ov-file#result)
+- [Google Sheet API](https://github.com/khoi321/BasicDiscordBot?tab=readme-ov-file#get-google-sheet-api)
+- [ATTENTION](https://github.com/khoi321/BasicDiscordBot?tab=readme-ov-file#attention)
+  - [Google Sheet](https://github.com/khoi321/BasicDiscordBot?tab=readme-ov-file#google-sheet)
+  - [Dev Token](https://github.com/khoi321/BasicDiscordBot?tab=readme-ov-file#dev-token)
+- [Other Document](https://github.com/khoi321/BasicDiscordBot?tab=readme-ov-file#dev-token)
+- [Support platform](https://github.com/khoi321/BasicDiscordBot?tab=readme-ov-file#support-platform)
+- [Change Log](https://github.com/khoi321/BasicDiscordBot?tab=readme-ov-file#change-log)
+- [License](https://github.com/khoi321/BasicDiscordBot/blob/main/LICENSE)
 - Clause
-  - [Privacy and Security Disclaimer](https://raw.githubusercontent.com/khoi321/NuuDiscordBot/main/privacyDisclaimer.txt)
-  - [Disclaimer of Legal Liability](https://raw.githubusercontent.com/khoi321/NuuDiscordBot/main/disClaimer.txt)
+  - [Privacy and Security Disclaimer](https://raw.githubusercontent.com/khoi321/BasicDiscordBot/main/privacyDisclaimer.txt)
+  - [Disclaimer of Legal Liability](https://raw.githubusercontent.com/khoi321/BasicDiscordBot/main/disClaimer.txt)
 - [Report of project](https://nuudisreport.vercel.app/)
-# NuuDiscordBot Introduce
+# BasicDiscordBot Introduce
 Advanced Discord bot with many fun and entertaining features. Helps you manage the server better and more securely. **The project is in the testing and development phase.**
 # Main features
 - NSFW
