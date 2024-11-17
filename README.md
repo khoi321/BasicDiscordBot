@@ -1,5 +1,5 @@
 # ⚠️Attention
-THE INSTRUCTIONS BELOW ARE TEMPORARY INSTRUCTIONS ONLY. PLEASE WAIT FOR OFFICIAL INSTRUCTIONS
+**THE INSTRUCTIONS BELOW ARE TEMPORARY INSTRUCTIONS ONLY. PLEASE WAIT FOR OFFICIAL INSTRUCTIONS**
 # Index
 - [Inroduce](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#nuudiscordbot-introduce)
 - [Main Features](https://github.com/khoi321/NuuDiscordBot?tab=readme-ov-file#main-features)
